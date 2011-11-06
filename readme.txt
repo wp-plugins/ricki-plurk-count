@@ -19,6 +19,10 @@ Simple plurk sharing button with counter.
 
 That's it!
 
+== Screenshots ==
+
+1. Simple button screenshot-1.png
+
 = Using Wordpress Popular Posts on Pages =
 
 Add **&lt;?php ricki_the_button(get_the_ID(), "shares", the_permalink()." (".get_the_title().")") ?&gt;**
